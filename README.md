@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Yashveer Singh</h1>
-<h3 align="center">A front End Developer.</h3>
+<h3 align="center">A frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashveerdpts&label=Profile%20views&color=0e75b6&style=flat" alt="yashveerdpts" /> </p>
 

@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashveerdpts&" alt="yashveerdpts" /></p>
 
+[![yashveersingh's GitHub | Stats](https://stats.quine.sh/yashveersingh/github?theme=dark)](https://quine.sh)
